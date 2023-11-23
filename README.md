@@ -1,2 +1,2 @@
-amoCRM login:alexsclava.barannik@gmail.com
-amoCRM password:2CNa47BE
+ login:alexsclava.barannik@gmail.com <br>
+ password:2CNa47BE
